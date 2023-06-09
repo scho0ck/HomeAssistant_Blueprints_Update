@@ -1,7 +1,7 @@
 #!/bin/bash
 
 self_file="$0"
-self_source_url="https://raw.githubusercontent.com/koter84/HomeAssistant_Blueprints_Update/main/blueprints_update.sh"
+self_source_url="https://raw.githubusercontent.com/scho0ck/HomeAssistant_Blueprints_Update/main/blueprints_update.sh"
 
 # defaults
 _do_update="false"
